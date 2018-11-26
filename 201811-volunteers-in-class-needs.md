@@ -1,5 +1,5 @@
 ---
-title: Volunteer in the Classroom with Code Park
+title: Volunteer in the Classroom
 description: For Fall 2018 and early Spring 2019 semesters, Code Park needs volunteers to cheer on code club students as they create with technology!
 ---
 
