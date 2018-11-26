@@ -1,3 +1,8 @@
+---
+title: Volunteer in the Classroom with Code Park!
+layout: post
+---
+
 # About
 
 For Fall 2018 and early Spring 2019 semesters, Code Park is running code clubs and we need your help in the classroom!
