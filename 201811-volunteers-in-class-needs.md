@@ -25,9 +25,9 @@ For more information about us and how we work with students, see our [training g
 
 | Days of the week      | Time          | Location                          | Volunteer System Link |
 |-----------------------|---------------|-----------------------------------|----------------------|
-| **Mondays**, Tuesdays     | 4 - 6 PM      | [Gallegos Elementary School](https://www.google.com/maps/place/Gallegos+Elementary+School/@29.7339206,-95.2953698,17z/data=!3m1!4b1!4m5!3m4!1s0x8640bc34669568c3:0xc9f847daf25ecb34!8m2!3d29.733916!4d-95.2931811){:target="_blank"} | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
+| **Mondays**, **Tuesdays**     | 4 - 6 PM      | [Gallegos Elementary School](https://www.google.com/maps/place/Gallegos+Elementary+School/@29.7339206,-95.2953698,17z/data=!3m1!4b1!4m5!3m4!1s0x8640bc34669568c3:0xc9f847daf25ecb34!8m2!3d29.733916!4d-95.2931811){:target="_blank"} | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
 | **Tuesdays**, **Fridays**     | 4 - 5 PM      | [Deady Middle School](https://www.google.com/maps/place/Deady+Middle+School/@29.733916,-95.2931811,15z/data=!4m5!3m4!1s0x8640bd978259bcc1:0x3219a86175ce2466!8m2!3d29.7046177!4d-95.2789266){:target="_blank"}        | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
-| Mondays, **Wednesdays**   | 5 - 7 PM      | [Leonel Castillo Community Center](https://www.google.com/maps/place/BakerRipley+Leonel+Castillo+Community+Center/@29.778265,-95.3692353,17z/data=!3m1!4b1!4m5!3m4!1s0x8640b8cc1b7a258f:0xcc8f224de42d532a!8m2!3d29.7782604!4d-95.3670466){:target="_blank"} | [Leonel Castillo Volunteer Instructor Opportunity](https://volunteer.bakerripley.org/recruiter/501/OppDetails/1268/Volunteer-Instructors/){:target="_blank"} |
+| Mondays, Wednesdays   | 5 - 7 PM      | [Leonel Castillo Community Center](https://www.google.com/maps/place/BakerRipley+Leonel+Castillo+Community+Center/@29.778265,-95.3692353,17z/data=!3m1!4b1!4m5!3m4!1s0x8640b8cc1b7a258f:0xcc8f224de42d532a!8m2!3d29.7782604!4d-95.3670466){:target="_blank"} | [Leonel Castillo Volunteer Instructor Opportunity](https://volunteer.bakerripley.org/recruiter/501/OppDetails/1268/Volunteer-Instructors/){:target="_blank"} |
 
 Days with higher need **bolded**.
 
@@ -35,14 +35,12 @@ See full instructions about volunteer systems [below](#volunteer-system-registra
 
 # Current Needs
 
-1. Storytelling code club at **Gallegos Elementary School on Mondays from 4 - 6 PM**
-2. New Storytelling code clubs at **Deady Middle School on Tuesdays and Fridays from 4 - 5 PM**
-3. Friends code club at **Leonel Castillo on Wednesdays 5 - 7 PM**
+1. Storytelling code club at **Gallegos Elementary School on Mondays and/or Tuesdays from 4 - 6 PM**
+2. New Storytelling code clubs at **Deady Middle School on Tuesdays and/or Fridays from 4 - 5 PM**
 
 Other code clubs in need of volunteers, but not as urgently are:
 
-1. Tuesdays 4 - 6 PM at Gallegos Elementary School
-2. Mondays 5 - 7 PM at Leonel Castillo
+1. Mondays and Wednesdays 5 - 7 PM at Leonel Castillo
 
 # Volunteer System Registration Instructions
 
