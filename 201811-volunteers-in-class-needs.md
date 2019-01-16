@@ -7,7 +7,7 @@ description: For Fall 2018 and early Spring 2019 semesters, Code Park needs volu
 
 For Fall 2018 and early Spring 2019 semesters, Code Park is running code clubs and we need your help in the classroom!
 
-Throughout these weekly clubs, students use computer science to tell fun and interactive stories through [Storytelling](https://csfirst.withgoogle.com/c/cs-first/en/storytelling/overview.html){:target="_blank"} or team up to tell the story of how their friendship started and imagine a company together through [Friends](https://csfirst.withgoogle.com/c/cs-first/en/friends/overview.html){:target="_blank"}.
+Throughout these weekly clubs, students use computer science to tell fun and interactive stories through [Storytelling](https://csfirst.withgoogle.com/c/cs-first/en/storytelling/overview.html){:target="_blank"} or to create music videos and interactive music displays through [Music & Sound](https://csfirst.withgoogle.com/c/cs-first/en/music-and-sound/overview.html){:target="_blank"}.
 
 As a volunteer in the classroom, you'll [encourage students](http://bit.ly/codeparkorientation){:target="_blank"} to:
 
@@ -25,22 +25,12 @@ For more information about us and how we work with students, see our [training g
 
 | Days of the week      | Time          | Location                          | Volunteer System Link |
 |-----------------------|---------------|-----------------------------------|----------------------|
-| **Mondays**, **Tuesdays**     | 4 - 6 PM      | [Gallegos Elementary School](https://www.google.com/maps/place/Gallegos+Elementary+School/@29.7339206,-95.2953698,17z/data=!3m1!4b1!4m5!3m4!1s0x8640bc34669568c3:0xc9f847daf25ecb34!8m2!3d29.733916!4d-95.2931811){:target="_blank"} | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
-| **Tuesdays**, **Fridays**     | 4 - 5 PM      | [Deady Middle School](https://www.google.com/maps/place/Deady+Middle+School/@29.733916,-95.2931811,15z/data=!4m5!3m4!1s0x8640bd978259bcc1:0x3219a86175ce2466!8m2!3d29.7046177!4d-95.2789266){:target="_blank"}        | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
-| Mondays, Wednesdays   | 5 - 7 PM      | [Leonel Castillo Community Center](https://www.google.com/maps/place/BakerRipley+Leonel+Castillo+Community+Center/@29.778265,-95.3692353,17z/data=!3m1!4b1!4m5!3m4!1s0x8640b8cc1b7a258f:0xcc8f224de42d532a!8m2!3d29.7782604!4d-95.3670466){:target="_blank"} | [Leonel Castillo Volunteer Instructor Opportunity](https://volunteer.bakerripley.org/recruiter/501/OppDetails/1268/Volunteer-Instructors/){:target="_blank"} |
+| TBD, Thursday or Friday    | 4 - 6 PM      | [Gallegos Elementary School](https://www.google.com/maps/place/Gallegos+Elementary+School/@29.7339206,-95.2953698,17z/data=!3m1!4b1!4m5!3m4!1s0x8640bc34669568c3:0xc9f847daf25ecb34!8m2!3d29.733916!4d-95.2931811){:target="_blank"} | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
+| Tuesdays, Fridays     | 4 - 5 PM      | [Deady Middle School](https://www.google.com/maps/place/Deady+Middle+School/@29.733916,-95.2931811,15z/data=!4m5!3m4!1s0x8640bd978259bcc1:0x3219a86175ce2466!8m2!3d29.7046177!4d-95.2789266){:target="_blank"}        | [HISD Raptor / VIPS ](https://apps.raptorware.com/vsoft/kiosk/volunteerregistration?clientId=f4767608-a773-44e7-8d47-645d85e67f27){:target="_blank"} |
+| Mondays, Wednesdays   | 5:30 - 7 PM      | [Leonel Castillo Community Center](https://www.google.com/maps/place/BakerRipley+Leonel+Castillo+Community+Center/@29.778265,-95.3692353,17z/data=!3m1!4b1!4m5!3m4!1s0x8640b8cc1b7a258f:0xcc8f224de42d532a!8m2!3d29.7782604!4d-95.3670466){:target="_blank"} | [Leonel Castillo Volunteer Instructor Opportunity](https://volunteer.bakerripley.org/recruiter/501/OppDetails/1268/Volunteer-Instructors/){:target="_blank"} |
 
-Days with higher need **bolded**.
 
 See full instructions about volunteer systems [below](#volunteer-system-registration-instructions).
-
-# Current Needs
-
-1. Storytelling code club at **Gallegos Elementary School on Mondays and/or Tuesdays from 4 - 6 PM**
-2. New Storytelling code clubs at **Deady Middle School on Tuesdays and/or Fridays from 4 - 5 PM**
-
-Other code clubs in need of volunteers, but not as urgently are:
-
-1. Mondays and Wednesdays 5 - 7 PM at Leonel Castillo
 
 # Volunteer System Registration Instructions
 
